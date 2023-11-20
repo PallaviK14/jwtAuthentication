@@ -1,0 +1,14 @@
+2023-10-04 14:54:54,915 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-04 14:59:07,304 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demovideostreaming:0.0.1-SNAPSHOT @ C:\Users\Pallavi K-3265\eclipse-workspace\demovideostreaming\pom.xml.
+2023-10-04 14:59:09,563 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demovideostreaming/src/main/java
+2023-10-04 14:59:09,565 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demovideostreaming/src/main/resources
+2023-10-04 14:59:09,568 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demovideostreaming/src/main/resources
+2023-10-04 14:59:09,571 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demovideostreaming/src/test/java
+2023-10-04 14:59:10,101 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2023-10-04 14:59:13,571 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-04 14:59:13,572 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-10-04 14:59:13,584 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-04 14:59:13,616 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-04 14:59:13,722 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-04 14:59:13,722 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-10-04 14:59:13,724 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pallavi K-3265\eclipse-workspace\demovideostreaming\src\test\resources
